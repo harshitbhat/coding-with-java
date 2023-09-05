@@ -43,13 +43,39 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.coding.practice.codeforces.A71.Main">
+  <component name="RunManager" selected="Application.coding.practice.codeforces.A1.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="coding.practice.codeforces.A4.Main" />
       <module name="coding_with_java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="coding.practice.codeforces.A4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coding.practice.codeforces.A1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding.practice.codeforces.A1.Main" />
+      <module name="coding_with_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coding.practice.codeforces.A1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="coding.practice.codeforces.A231.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding.practice.codeforces.A231.Main" />
+      <module name="coding_with_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coding.practice.codeforces.A231.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,6 +98,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.coding.practice.codeforces.A1.Main" />
+        <item itemvalue="Application.coding.practice.codeforces.A231.Main" />
         <item itemvalue="Application.coding.practice.codeforces.A71.Main" />
         <item itemvalue="Application.Main" />
       </list>
